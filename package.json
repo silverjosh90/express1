@@ -1,0 +1,11 @@
+{
+  "name": "express1",
+  "version": "1.0.0",
+  "description": "expressTeacher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"node_modules\" > .gitignore"
+  },
+  "author": "Josh",
+  "license": "ISC"
+}
